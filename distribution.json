@@ -9,9 +9,9 @@
   "servers": [
     {
       "id": "Better Minecraft",
-      "name": "Better Minecraft (Minecraft 1.16.5)",
+      "name": "Better Minecraft Modpack",
       "description": "Better Minecraft Running Minecraft 1.16.5 (Forge v36.1.4)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/NhSoul/Better-Minecraft/master/icon.png",
       "version": "14.5",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
