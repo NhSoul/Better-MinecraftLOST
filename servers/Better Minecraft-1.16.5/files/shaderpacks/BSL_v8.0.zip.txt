@@ -1,0 +1,11 @@
+#Sun Mar 07 01:56:38 AEDT 2021
+AA=2
+AO=false
+BLOOM=false
+CLOUDS=2
+FOG_DENSITY=0.25
+LIGHT_SHAFT=false
+SHADOW_COLOR=false
+SHADOW_FILTER=false
+shadowDistance=128.0
+shadowMapResolution=1024

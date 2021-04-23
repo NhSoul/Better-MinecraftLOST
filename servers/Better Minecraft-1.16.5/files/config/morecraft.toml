@@ -1,0 +1,15 @@
+
+[drops]
+	#Override Mob Drops
+	#Default: True
+	override_mob_drops = true
+	#Mob Head Drops
+	#Default: True
+	mob_head_drops = true
+
+[generation]
+	#Netherwood Trees Frequency
+	#Default: 12
+	#Range: 0 ~ 50
+	netherwood_gen_freq = 12
+

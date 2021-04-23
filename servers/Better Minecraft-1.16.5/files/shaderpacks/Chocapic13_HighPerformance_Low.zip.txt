@@ -1,0 +1,2 @@
+#Mon Mar 29 03:26:11 AEDT 2021
+TONEMAP_ACES=false

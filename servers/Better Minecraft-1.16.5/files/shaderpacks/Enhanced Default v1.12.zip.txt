@@ -1,0 +1,8 @@
+#Sat Feb 06 05:34:34 AEDT 2021
+Fog=false
+Godrays=true
+grays_quality=2
+Refractions=true
+shadowMapResolution=2048
+skyReflection=true
+TAA=true
